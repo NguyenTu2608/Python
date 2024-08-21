@@ -1,0 +1,16 @@
+ProductGroupID,GroupName,GroupDescription,Category,DiscountPercentage,TaxRate,ParentGroupID,CreationDate,LastUpdatedDate,Status
+1,Electronics,Bar music material me establish task.,Fitness Equipment,24.87,13.72,8,02/05/2024,28/12/2021,Inactive
+2,Home Appliances,Mission it rise form fund.,Televisions,48.07,5.4,1,31/10/2023,22/04/2021,Inactive
+3,Office Supplies,None join computer goal.,Outdoor Electronics,36.32,0.84,2,08/07/2022,27/05/2021,Inactive
+4,Outdoor Gear,Onto participant memory item.,Laptops,0.75,7.11,3,15/12/2023,30/04/2022,Inactive
+5,Furniture,They expect election left plant marriage program.,Laptops,31.91,13.39,2,07/11/2023,16/06/2020,Inactive
+6,Computers,Within develop machine senior.,Audio Systems,40.52,7.19,4,23/08/2021,30/01/2023,Inactive
+7,Smartphones,Whom word fact term school up.,Fitness Equipment,3.64,7.88,2,26/06/2024,28/01/2021,Inactive
+8,Accessories,Newspaper development couple history.,Fitness Equipment,8.82,0.24,7,18/03/2022,14/10/2023,Inactive
+9,Toys,Late big return here trip idea white hotel.,Televisions,9.01,2.65,6,14/08/2021,19/04/2021,Active
+10,Kitchenware,Consider enter consider left.,Outdoor Electronics,4.71,10.64,3,07/05/2022,28/03/2020,Inactive
+11,Sports Equipment,Can if argue upon specific.,Smartphones,17.04,9.93,3,08/05/2021,09/03/2024,Inactive
+12,Health & Beauty,Four require individual let.,Smartphones,9.78,14.57,3,18/04/2022,15/03/2021,Inactive
+13,Automotive,Moment natural concern visit development suggest.,Automotive Electronics,39.53,11.75,2,20/06/2023,02/09/2022,Inactive
+14,Books,They but call watch wife.,Gaming Consoles,1.55,5.59,10,17/12/2023,16/07/2022,Inactive
+15,Pet Supplies,Magazine bag billion audience speak student.,Outdoor Electronics,17.17,11.22,2,28/10/2021,19/05/2023,Inactive

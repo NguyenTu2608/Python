@@ -1,0 +1,251 @@
+AccessID,CustomerID,PageVisited,VisitDate,TimeSpent,DeviceUsed,BrowserUsed,AccessLocation,ReferralSource,SessionID,ActionTaken
+1,29,Privacy Policy,2024-02-25,2.7,Laptop,Firefox,Asia,Advertisement,96bc0773-0d00-4c1a-9b59-b6110453474b,Viewed Product Details
+2,164,Home,2024-03-02,4.27,Smartphone,Chrome,North America,Advertisement,037cfb9b-6702-4023-b349-5478fa2e7c7c,Left Review
+3,252,Blog,2024-07-25,4.02,Tablet,Firefox,Oceania,Social Media,994fec1d-e297-41b1-b57b-1355269ca9df,Left Review
+4,42,Privacy Policy,2024-03-03,22.23,Laptop,Firefox,Oceania,Referral,18b08bb7-77b0-47fa-a75a-4fa65cc574f8,Made a Purchase
+5,65,Product Page,2024-06-22,27.77,Tablet,Safari,Oceania,Advertisement,12b5b834-b0aa-48a7-94d5-6a58264e1052,Viewed Product Details
+6,215,Home,2024-07-02,27.82,Laptop,Safari,North America,Search Engine,ddfefe50-e40f-4d54-98b9-d8f4ecc46c1f,Added to Cart
+7,19,Product Page,2024-05-24,27.27,Tablet,Chrome,Africa,Email,3a15d8b9-42ef-4062-9d9d-0d1f49b0ae49,Viewed Product Details
+8,148,Cart,2024-01-04,21.52,Desktop,Chrome,Africa,Social Media,aa7135d9-9769-4dce-b86b-1a079d6b6c09,Viewed Product Details
+9,238,Cart,2024-04-11,4.63,Smartphone,Chrome,Africa,Social Media,88caa94a-8cd0-428c-b31e-1a782f060481,Requested Support
+10,131,Contact Us,2024-02-08,5.72,Tablet,Safari,Europe,Search Engine,52486c66-d8fc-435a-890d-803625298e1c,Added to Cart
+11,8,Product Page,2024-07-14,29.85,Tablet,Internet Explorer,Asia,Direct,e9430c96-ea1a-47bf-b2fd-9c1fa9729a4b,Left Review
+12,259,Profile,2024-07-22,10.04,Laptop,Chrome,Africa,Search Engine,e9c35bfc-6ee9-4c31-8055-509cd94cc626,Requested Support
+13,249,FAQ,2024-06-10,15.34,Tablet,Safari,North America,Search Engine,a660fb4c-9684-426a-9e31-370ab42221e9,Added to Cart
+14,107,Terms and Conditions,2024-02-26,17.28,Smartphone,Edge,North America,Email,83d638fc-e277-469a-96d3-450e5b735127,Added to Cart
+15,130,Product Page,2024-02-24,19.03,Tablet,Safari,Oceania,Social Media,11f3e4d2-6cf2-4d24-b92c-7fe7493ae50f,Made a Purchase
+16,25,Product Page,2024-07-04,16.25,Smartphone,Firefox,Africa,Referral,c759b933-80bc-49f6-bb91-d29f04570939,Made a Purchase
+17,235,Checkout,2024-04-13,13.2,Desktop,Safari,Europe,Advertisement,f944fad9-ad3c-42b3-82ff-31e65eef0eef,Requested Support
+18,260,FAQ,2024-01-29,17.74,Desktop,Internet Explorer,Africa,Email,e9f5c0cc-9b02-427e-be71-7351e253a2bf,Requested Support
+19,57,Product Page,2024-04-28,29.26,Desktop,Edge,South America,Direct,2e099b9e-7760-453e-a4c3-4340e93e151f,Signed Up for Newsletter
+20,286,Product Page,2024-08-02,8.55,Tablet,Internet Explorer,Africa,Search Engine,6e0c4370-db6f-4311-8db6-ec85b1695017,Added to Cart
+21,102,Home,2024-06-07,3.2,Smartphone,Safari,Asia,Search Engine,96e74628-61ab-49cb-a04d-f4a4e0e775e5,Viewed Product Details
+22,225,Product Page,2024-01-13,17.41,Smartphone,Edge,Asia,Advertisement,e5c54216-5f10-4441-90c2-6eefb3239286,Viewed Product Details
+23,223,Home,2024-06-14,2.21,Tablet,Chrome,South America,Email,d24d70f1-fdc5-4359-b6d0-8d79bc26fe59,Signed Up for Newsletter
+24,117,Product Page,2024-02-04,14.55,Tablet,Edge,Africa,Email,25ad5a13-5c60-47d0-a6c0-f46ce3ff6fb0,Made a Purchase
+25,270,FAQ,2024-06-28,6.67,Desktop,Edge,Asia,Email,b9621154-c75f-4e19-a91c-bae14f29cc96,Added to Cart
+26,121,Terms and Conditions,2024-01-14,25.03,Tablet,Chrome,Europe,Social Media,ff80ed17-4797-4cf0-bd43-2ad88a6a06eb,Signed Up for Newsletter
+27,22,Profile,2024-05-24,16.86,Laptop,Chrome,Europe,Advertisement,b25c88b5-f926-4ccd-920e-df246ce6dd7e,Added to Cart
+28,61,Product Page,2024-05-17,8.42,Laptop,Firefox,Asia,Advertisement,de870e45-7a03-4589-a41c-d35ccf47faaa,Made a Purchase
+29,49,Privacy Policy,2024-04-04,21.37,Smartphone,Chrome,North America,Direct,527a3bee-ce56-4a04-a14c-765c6f08c590,Left Review
+30,201,Product Page,2024-07-22,6.03,Smartphone,Safari,South America,Advertisement,b059d8e9-91ac-4d24-947f-f3bf8cec71c4,Made a Purchase
+31,237,Contact Us,2024-01-08,28.84,Laptop,Chrome,Oceania,Social Media,9a2d9e07-629d-4c5f-be93-f9bb3f70a3d3,Viewed Product Details
+32,99,Cart,2024-03-26,26.24,Laptop,Chrome,North America,Direct,432154e8-b11e-48cd-bc4b-f99858aa2615,Viewed Product Details
+33,32,Blog,2024-06-06,9.69,Smartphone,Edge,North America,Social Media,5afce6bb-a670-47c0-a527-2fcb9d5bd6f9,Signed Up for Newsletter
+34,121,Blog,2024-04-29,7.88,Laptop,Internet Explorer,Europe,Direct,98e6cccc-9284-4eb2-9bec-6db45edb9128,Made a Purchase
+35,98,Product Page,2024-05-10,29.79,Tablet,Firefox,Asia,Social Media,7be110f8-6138-492c-b0c3-10f9e47b6809,Left Review
+36,257,Product Page,2024-05-09,19.88,Laptop,Firefox,Asia,Advertisement,171dc4cd-8fe7-48b7-93d5-d6588e0f6305,Requested Support
+37,107,Checkout,2024-04-02,12.52,Smartphone,Safari,South America,Social Media,51f926e6-0028-4c0d-b8fb-0f3a1d2d735c,Requested Support
+38,82,FAQ,2024-07-18,9.62,Laptop,Chrome,South America,Referral,efb551a7-1900-400f-ba5a-5f736440162e,Made a Purchase
+39,205,Home,2024-08-08,28.36,Tablet,Firefox,South America,Social Media,74114194-7be8-47ab-806b-289f0a03f8f1,Left Review
+40,284,FAQ,2024-06-09,5.65,Smartphone,Safari,South America,Search Engine,1820c250-c312-4645-92df-1d4f1698a1bc,Signed Up for Newsletter
+41,263,Blog,2024-02-02,24.09,Smartphone,Chrome,Oceania,Direct,a69229a6-e8d4-4bd0-8835-cfc033515297,Left Review
+42,268,Profile,2024-06-08,27.08,Tablet,Edge,South America,Email,5737f599-af2e-4251-8d0f-e230d7054bd6,Made a Purchase
+43,36,Checkout,2024-05-12,19.17,Smartphone,Internet Explorer,North America,Email,37f9da4c-87af-4499-8787-2f86bab0625e,Added to Cart
+44,160,Checkout,2024-01-19,20.82,Smartphone,Chrome,Asia,Social Media,c1d41f0f-bc07-4e07-8de7-ec001a023459,Requested Support
+45,295,FAQ,2024-03-21,12.71,Smartphone,Internet Explorer,Europe,Referral,25cfedcb-5712-4171-8e38-c800a43c8c62,Made a Purchase
+46,168,Terms and Conditions,2024-01-25,5.93,Desktop,Edge,South America,Advertisement,243630ea-fd1c-468a-ab4b-aaf87ca8344c,Left Review
+47,42,Terms and Conditions,2024-02-05,22.12,Smartphone,Chrome,North America,Search Engine,fddafd8d-060c-4676-93d8-0ad8884cda46,Added to Cart
+48,157,FAQ,2024-04-05,28.44,Smartphone,Internet Explorer,Oceania,Direct,16e1e52f-46bd-47e3-852e-2aa381f60e61,Made a Purchase
+49,254,Blog,2024-02-24,3.75,Smartphone,Safari,South America,Search Engine,ed26b705-535b-4d0c-a201-2d3375ffb411,Requested Support
+50,178,Privacy Policy,2024-07-17,8.39,Tablet,Internet Explorer,Europe,Email,cf30c625-98f3-429d-a8c1-788b42d4d4a5,Left Review
+51,96,Cart,2024-02-19,11.22,Laptop,Firefox,North America,Direct,18b1ca76-e008-46de-a3e3-f954c2b9e0ef,Made a Purchase
+52,172,FAQ,2024-02-24,1.81,Tablet,Internet Explorer,Europe,Email,78cc40b2-116e-45ec-8f59-bd3e0dfe742d,Left Review
+53,186,Home,2024-01-14,20.89,Laptop,Chrome,Oceania,Email,fed4d3dd-1df3-45dd-b8bc-027dedead8c1,Requested Support
+54,171,Checkout,2024-07-03,6.39,Desktop,Chrome,Oceania,Referral,28b7c92b-524d-4087-8322-d4fb83ab5e67,Viewed Product Details
+55,33,Profile,2024-04-07,23.34,Smartphone,Firefox,Europe,Email,70bf54ce-e5a7-45eb-ae33-2adefb29bb0d,Signed Up for Newsletter
+56,3,FAQ,2024-04-09,20.52,Tablet,Chrome,South America,Email,3a89139a-467d-4603-81b3-60e98dfff958,Made a Purchase
+57,245,Home,2024-05-01,25.2,Laptop,Chrome,Africa,Direct,c82451f4-c97c-4dd0-8f38-2334cf96abb5,Viewed Product Details
+58,146,Checkout,2024-03-12,9.21,Smartphone,Chrome,Africa,Search Engine,ed9bfeaa-b176-49a8-87a6-9296657836a0,Requested Support
+59,275,Home,2024-07-22,18.75,Desktop,Edge,South America,Email,e39434cd-dd6a-408b-8e7d-6974e8175727,Viewed Product Details
+60,166,Privacy Policy,2024-08-05,12.01,Tablet,Safari,North America,Advertisement,5f5672f1-e993-49d6-bb36-6b4f2f628908,Left Review
+61,140,Blog,2024-08-02,26.26,Tablet,Internet Explorer,South America,Direct,02b9c3c6-1221-4011-abe2-4773a6625d04,Requested Support
+62,108,FAQ,2024-05-27,13.93,Laptop,Safari,South America,Email,77c86627-e7c3-42f0-b0a5-179fd827c26c,Requested Support
+63,203,Contact Us,2024-05-16,2.49,Tablet,Chrome,Europe,Email,a6fc64ab-8eda-48a5-8801-15533df8742c,Left Review
+64,195,Contact Us,2024-02-25,26.8,Laptop,Chrome,South America,Direct,8d17d371-356a-4198-8345-2b162364b67c,Requested Support
+65,109,Blog,2024-06-20,13.4,Laptop,Chrome,North America,Direct,ebedfab2-9011-41df-a4bc-5d6c12c50159,Added to Cart
+66,191,Checkout,2024-02-06,19.17,Laptop,Safari,Asia,Email,4ed2080e-eb62-449f-997f-19e32248e037,Made a Purchase
+67,257,Contact Us,2024-05-27,25.52,Tablet,Edge,Oceania,Referral,4e32bdba-5285-4dbf-9232-dd0399deb174,Left Review
+68,209,Contact Us,2024-06-18,5.31,Smartphone,Chrome,Asia,Social Media,20e015d5-67ef-41f1-bba6-8f3a2a60e444,Made a Purchase
+69,141,Profile,2024-01-25,11.07,Smartphone,Internet Explorer,South America,Search Engine,c9ec103b-6c5b-49a2-894e-351528e38ff3,Added to Cart
+70,104,Checkout,2024-02-16,12.1,Laptop,Chrome,Asia,Direct,34113836-a65e-408b-8d43-477f1d6698b1,Requested Support
+71,224,Home,2024-01-15,9.75,Tablet,Internet Explorer,Africa,Social Media,fd5087e3-4695-48fe-b20f-4683ddac55d9,Requested Support
+72,156,Blog,2024-04-06,2.99,Tablet,Safari,Asia,Search Engine,74378582-6dc0-4864-b52a-9247c1a4893c,Made a Purchase
+73,84,Cart,2024-03-19,25.11,Desktop,Edge,Oceania,Social Media,ce709449-839f-4032-919d-3b82699e483f,Made a Purchase
+74,300,Terms and Conditions,2024-03-20,26.48,Desktop,Safari,Oceania,Direct,efb0d2f1-081f-41cd-aa30-57953da320bb,Viewed Product Details
+75,108,FAQ,2024-06-29,26.88,Laptop,Chrome,Africa,Referral,bac19045-fed4-4a62-9298-9fcad143e1a0,Added to Cart
+76,115,Profile,2024-04-08,10.49,Desktop,Edge,Asia,Direct,151c9b5c-88cc-4a0b-874e-4875a756d912,Signed Up for Newsletter
+77,182,Profile,2024-08-01,28.74,Laptop,Internet Explorer,Europe,Social Media,10f51b86-dbfd-43e5-a84b-155846780bab,Viewed Product Details
+78,162,Contact Us,2024-04-01,17.97,Smartphone,Chrome,Europe,Referral,1490d1d6-ed8d-48db-a6cb-bbca173c892b,Added to Cart
+79,52,Home,2024-05-09,10.59,Tablet,Safari,North America,Referral,aaaa5759-f51a-47e4-b09e-ef307e5a58ec,Signed Up for Newsletter
+80,136,Product Page,2024-07-03,6.79,Tablet,Safari,Asia,Direct,6d4b0ecf-c985-446d-95f6-ca334fc14fdb,Left Review
+81,290,Home,2024-07-06,4.92,Smartphone,Edge,Europe,Referral,ab3c6449-9f25-48bc-86d7-99b288b9754b,Left Review
+82,86,Checkout,2024-01-17,15.28,Laptop,Edge,Oceania,Search Engine,b734975a-baeb-4d2f-b818-1a36d983099a,Viewed Product Details
+83,155,Privacy Policy,2024-04-05,4.79,Laptop,Edge,South America,Referral,03deb4c2-d743-4950-8299-09f9b0f15de0,Viewed Product Details
+84,127,Home,2024-01-16,14.95,Desktop,Internet Explorer,Europe,Email,0569ac8f-2303-45b1-81c8-d555ec19a895,Made a Purchase
+85,219,Terms and Conditions,2024-03-05,28.05,Tablet,Internet Explorer,Europe,Referral,644d0769-b263-4c0e-916f-8c4c4f608866,Made a Purchase
+86,111,Blog,2024-02-13,26.71,Tablet,Edge,Asia,Email,ba16a5e6-6a31-400e-b6b1-d81738a9ec18,Left Review
+87,229,Cart,2024-05-07,11.57,Smartphone,Safari,Africa,Search Engine,1cd0ab10-e84f-4f30-8a51-8a98cf2d64ad,Made a Purchase
+88,79,Home,2024-02-16,20.39,Desktop,Safari,Europe,Email,9c267ac7-2047-4e78-819e-6195c362ae6e,Signed Up for Newsletter
+89,98,Checkout,2024-05-01,11.01,Laptop,Edge,Oceania,Referral,42dfd222-4f54-4a1b-bbb3-2b77d6167cfe,Signed Up for Newsletter
+90,249,Cart,2024-06-16,21.87,Smartphone,Edge,North America,Advertisement,a389e81f-12cb-42bc-a05a-c54199572027,Made a Purchase
+91,217,Blog,2024-06-17,10.65,Laptop,Internet Explorer,Asia,Advertisement,5fa0e753-a65a-4da3-915a-0466c6e82de8,Requested Support
+92,196,Home,2024-02-27,21.18,Laptop,Edge,Oceania,Referral,c8dfaa24-fdd2-4c84-86eb-c79a59a68245,Added to Cart
+93,299,Privacy Policy,2024-01-13,24.75,Smartphone,Firefox,Africa,Email,7cc73067-4771-46c1-9ef9-91ad2329d857,Viewed Product Details
+94,154,Cart,2024-07-08,11.84,Smartphone,Chrome,Asia,Email,07366f52-4f49-4e76-bfeb-a2957a65cc52,Signed Up for Newsletter
+95,182,Terms and Conditions,2024-05-05,8.88,Smartphone,Safari,South America,Direct,3f338a15-6506-4a15-aad1-237df92de626,Requested Support
+96,155,Privacy Policy,2024-06-17,3.23,Smartphone,Safari,Asia,Search Engine,18b65e64-e15d-4744-ae7d-2c3a3af3fe64,Left Review
+97,189,Profile,2024-07-21,2.74,Smartphone,Internet Explorer,Africa,Direct,ac6113f4-c49d-45fa-b697-6a62ba097af8,Viewed Product Details
+98,299,Cart,2024-04-16,19.56,Smartphone,Firefox,Asia,Email,0f3e1c5d-8b16-4ed5-b262-205b276b887a,Added to Cart
+99,256,Contact Us,2024-08-08,21.04,Desktop,Firefox,Europe,Referral,687cdd1c-65cc-4b7d-abc2-19931f09acca,Requested Support
+100,236,FAQ,2024-05-08,27.74,Smartphone,Internet Explorer,South America,Direct,0a7bfe2e-0e21-4c0d-b861-1db6b5d65dcb,Viewed Product Details
+101,136,Terms and Conditions,2024-06-17,17.04,Desktop,Internet Explorer,South America,Search Engine,f88a5447-e2c9-43e7-a484-f8e03f79a310,Viewed Product Details
+102,100,Terms and Conditions,2024-05-01,4.0,Laptop,Internet Explorer,North America,Advertisement,24f1b09a-f9a3-465d-8691-1578876be563,Made a Purchase
+103,214,Profile,2024-04-20,26.36,Desktop,Firefox,Africa,Referral,985d8dc9-161c-4fd3-85f1-1b017d7e39d3,Made a Purchase
+104,118,Blog,2024-02-28,6.62,Tablet,Firefox,Oceania,Advertisement,a6225f14-3ae0-426c-9e34-d5793254f217,Left Review
+105,66,Blog,2024-07-14,9.91,Laptop,Safari,North America,Search Engine,7316b60f-cb08-4ecf-8561-fecde9668e7d,Viewed Product Details
+106,253,Contact Us,2024-02-17,28.22,Desktop,Edge,Asia,Email,65ea8654-5cb2-4086-8e93-523351695975,Viewed Product Details
+107,227,Profile,2024-05-01,28.09,Smartphone,Edge,North America,Referral,636136b9-6e47-494f-9703-366f3ea437ac,Made a Purchase
+108,262,Terms and Conditions,2024-05-27,21.24,Smartphone,Safari,North America,Email,4c1378c6-590b-430f-8fc5-3878bf516707,Added to Cart
+109,130,Cart,2024-03-27,11.86,Laptop,Edge,North America,Direct,9399adc7-820a-4b99-9018-fa6041af425f,Left Review
+110,194,FAQ,2024-02-08,6.37,Smartphone,Chrome,North America,Social Media,238031ca-5227-47e6-8fbc-bc9b8da7f0fa,Requested Support
+111,186,Home,2024-02-29,7.91,Smartphone,Safari,Africa,Social Media,0cc62dbf-6132-40aa-8159-9c99a8f1d36c,Left Review
+112,32,Product Page,2024-03-25,9.44,Laptop,Safari,Oceania,Direct,51ef9f9b-4a94-4053-8374-5ccfba046291,Requested Support
+113,293,Checkout,2024-02-25,27.91,Laptop,Internet Explorer,Asia,Email,ea1879c3-5f35-4c68-b765-1511be1f32ca,Added to Cart
+114,297,Home,2024-05-20,17.64,Laptop,Internet Explorer,North America,Advertisement,c694cbe2-2cdd-496a-9aa2-e23351bcd0bc,Signed Up for Newsletter
+115,2,Blog,2024-07-22,11.63,Smartphone,Chrome,Oceania,Social Media,bf73f3e2-8f5e-4f2e-8379-088da6f5b202,Signed Up for Newsletter
+116,286,Checkout,2024-06-12,12.84,Smartphone,Internet Explorer,North America,Referral,f4e0e50a-6927-42c0-8fc0-f7303fb5987d,Viewed Product Details
+117,126,FAQ,2024-08-04,14.76,Desktop,Safari,Asia,Social Media,56c4242f-8b85-4120-8ab4-e68f08f09807,Viewed Product Details
+118,70,Cart,2024-06-03,5.42,Desktop,Internet Explorer,Europe,Advertisement,edffae27-5f65-4b96-ae39-959c556b8808,Signed Up for Newsletter
+119,129,Home,2024-03-10,14.79,Desktop,Safari,Africa,Social Media,afcb2953-9dab-49e5-93f9-560591ebb081,Viewed Product Details
+120,190,Product Page,2024-01-11,4.6,Tablet,Safari,North America,Direct,b999d8ae-f811-47ed-83ec-0be1a6ee2983,Added to Cart
+121,76,Contact Us,2024-01-31,17.29,Desktop,Firefox,Africa,Email,8db71beb-4717-4155-9882-d86faa464df6,Viewed Product Details
+122,211,Privacy Policy,2024-03-17,17.07,Tablet,Chrome,Europe,Referral,00140057-43b3-416e-a4dd-284447b12227,Requested Support
+123,195,Blog,2024-01-11,28.97,Tablet,Internet Explorer,Europe,Advertisement,e41268d3-31f2-41ca-8a36-833f1d1de858,Added to Cart
+124,236,Contact Us,2024-03-24,28.28,Tablet,Chrome,South America,Email,1c6ae8ce-0706-4fb8-9153-3cbcf999b892,Signed Up for Newsletter
+125,20,Checkout,2024-04-17,3.41,Laptop,Firefox,South America,Referral,78eb1623-5259-4094-b869-412e49e853c2,Requested Support
+126,32,Cart,2024-06-21,23.93,Desktop,Safari,Asia,Social Media,308df308-120e-4b83-8b1d-a095fd9db0b6,Signed Up for Newsletter
+127,71,FAQ,2024-07-16,20.73,Laptop,Internet Explorer,Europe,Social Media,7303f97f-7a12-436a-a787-1cc3a5c4dc5c,Viewed Product Details
+128,213,FAQ,2024-06-28,20.23,Smartphone,Internet Explorer,Asia,Social Media,28818c60-2f92-4371-8c52-82d587f72014,Made a Purchase
+129,145,Checkout,2024-04-18,12.93,Laptop,Edge,North America,Search Engine,d2c2f2ea-ec97-4bfa-a5bd-31c85618f191,Requested Support
+130,282,Blog,2024-01-02,8.66,Desktop,Firefox,South America,Email,be45c4c4-0397-467a-9b0a-163316a5b16b,Viewed Product Details
+131,217,Contact Us,2024-03-25,7.77,Tablet,Firefox,Africa,Search Engine,b00f2932-2a05-4daa-aed5-ccaf482f9ea5,Requested Support
+132,135,Checkout,2024-01-17,18.36,Laptop,Internet Explorer,Africa,Search Engine,3f5e3c91-8010-49ef-80e1-26b1c2c6b2d6,Signed Up for Newsletter
+133,279,Contact Us,2024-05-28,3.19,Laptop,Internet Explorer,South America,Referral,56a5fe56-d521-4d9b-9365-fe7606cec54b,Requested Support
+134,110,Checkout,2024-02-21,23.04,Smartphone,Chrome,Oceania,Advertisement,d3cd4489-3d91-4a37-9e11-900ebefefaca,Added to Cart
+135,271,Blog,2024-02-11,25.33,Smartphone,Chrome,Africa,Email,d0c81f9a-6d21-4727-85e2-0364b8e85dad,Requested Support
+136,10,Terms and Conditions,2024-04-09,21.15,Tablet,Chrome,South America,Email,7e4cd496-a502-4b8c-ab4a-8ff23e3a4708,Requested Support
+137,279,Terms and Conditions,2024-01-28,25.08,Laptop,Edge,Europe,Advertisement,14e65cdb-efd1-42f3-880b-d24fb65de8f2,Left Review
+138,1,Cart,2024-06-30,26.02,Laptop,Edge,South America,Social Media,7051ce92-e6b0-4941-8d6c-36b3c976b904,Requested Support
+139,204,Blog,2024-05-29,26.32,Tablet,Internet Explorer,Europe,Referral,f99df021-ffb4-4d0f-add6-cb8bd54aa41a,Viewed Product Details
+140,5,Cart,2024-02-19,6.97,Desktop,Internet Explorer,Africa,Email,2b3cbaaf-32b7-4eea-862d-1fcbc7c2c546,Added to Cart
+141,117,FAQ,2024-02-06,10.68,Smartphone,Safari,North America,Social Media,ca2b50af-e661-4ac8-aa8e-3ddfd4e06241,Signed Up for Newsletter
+142,155,Product Page,2024-04-29,16.83,Laptop,Chrome,Europe,Referral,8ccc052c-8ece-43e0-a28a-70a6874195f6,Viewed Product Details
+143,94,Cart,2024-01-11,3.23,Smartphone,Firefox,Oceania,Search Engine,d7f1440f-c683-4d74-b2d2-97638f75bcf4,Signed Up for Newsletter
+144,275,Terms and Conditions,2024-01-08,26.44,Laptop,Safari,North America,Email,dc055771-61e1-4b90-b7c1-a73d3d67594d,Added to Cart
+145,284,Profile,2024-07-30,21.35,Tablet,Safari,Europe,Email,ecfda162-b02a-4eef-a3de-c95d5a0cc19f,Added to Cart
+146,1,Product Page,2024-02-08,23.04,Desktop,Chrome,Asia,Search Engine,3f7e5152-9309-49b2-8a08-85d638c37c2a,Made a Purchase
+147,208,Cart,2024-02-29,14.25,Desktop,Firefox,Europe,Direct,d7e15279-3b2e-4e7c-9f9e-f1bbf73ddc45,Made a Purchase
+148,38,FAQ,2024-02-02,25.42,Tablet,Internet Explorer,North America,Advertisement,f4700693-7431-4470-b542-9edaa6ce97f3,Viewed Product Details
+149,152,Checkout,2024-04-09,25.34,Tablet,Safari,South America,Advertisement,49165119-e732-4871-9657-81ce83585ff8,Viewed Product Details
+150,164,Contact Us,2024-02-01,6.08,Desktop,Internet Explorer,Europe,Search Engine,c6652ee8-edf4-422a-af5c-e090466d5720,Signed Up for Newsletter
+151,261,Terms and Conditions,2024-03-25,6.99,Smartphone,Firefox,South America,Advertisement,3a5f022e-f0bf-48e0-866c-f37aae327d65,Added to Cart
+152,42,Cart,2024-05-08,16.8,Smartphone,Edge,North America,Email,59d21384-0790-476d-93bb-34f62867c362,Viewed Product Details
+153,33,Privacy Policy,2024-06-15,8.07,Laptop,Firefox,North America,Social Media,383e73cc-28e3-489e-a45d-9e43c010bfea,Added to Cart
+154,136,Cart,2024-01-17,4.61,Desktop,Safari,Asia,Email,9669390c-8335-4268-a66d-66d2adaaac92,Viewed Product Details
+155,258,Terms and Conditions,2024-04-22,12.86,Desktop,Chrome,North America,Social Media,8129687f-f548-45a1-aaca-169da367aa95,Made a Purchase
+156,175,Checkout,2024-01-05,26.77,Tablet,Edge,South America,Referral,096a9b30-3dae-4a10-9f13-dd7134660b01,Requested Support
+157,198,Home,2024-05-10,21.06,Desktop,Safari,Europe,Search Engine,b4d761b8-4946-4665-8c46-cbb7fa90129a,Signed Up for Newsletter
+158,93,Product Page,2024-04-01,16.86,Smartphone,Internet Explorer,North America,Direct,316564b5-9fcf-4d29-9ddc-9778221dd94b,Signed Up for Newsletter
+159,48,Terms and Conditions,2024-07-06,17.16,Laptop,Edge,Africa,Email,38fa61a7-e9a5-4027-aaac-cfd7bb1db6f3,Viewed Product Details
+160,56,Contact Us,2024-03-09,13.54,Smartphone,Firefox,Africa,Referral,d7fc36b1-dc05-4eaa-9246-cd32e50e2621,Viewed Product Details
+161,243,Contact Us,2024-02-04,19.6,Laptop,Chrome,Asia,Direct,d2dc3939-797d-4c09-b980-67869e78e9af,Signed Up for Newsletter
+162,90,Cart,2024-01-17,29.13,Smartphone,Internet Explorer,Europe,Advertisement,578861a6-f4f7-480b-84be-408c6a1e78ef,Viewed Product Details
+163,271,Profile,2024-08-09,1.3,Desktop,Internet Explorer,Europe,Direct,d3272aca-d75a-44fc-9937-c6c52311e5fd,Added to Cart
+164,158,Profile,2024-07-28,17.16,Smartphone,Firefox,Oceania,Referral,23c89382-53b8-4faa-b02a-51d2a6a9ead3,Left Review
+165,5,FAQ,2024-06-26,4.5,Desktop,Chrome,Europe,Social Media,b67db5dc-dfb9-4fd7-8628-71d028d2bfd2,Added to Cart
+166,172,Privacy Policy,2024-05-08,5.94,Tablet,Firefox,Europe,Direct,47dac16e-e478-4719-99f4-69c128ce998b,Requested Support
+167,174,Cart,2024-08-10,4.2,Smartphone,Internet Explorer,Asia,Email,dbd4e538-b2ae-41b0-bab9-7ad7517399dc,Signed Up for Newsletter
+168,40,Privacy Policy,2024-08-07,23.93,Tablet,Safari,South America,Social Media,389853e9-a555-47fe-8f29-b9d240613a43,Requested Support
+169,123,Contact Us,2024-08-05,2.46,Tablet,Chrome,Oceania,Direct,b24cac22-c028-477a-adf0-ca5d3cf4256a,Made a Purchase
+170,60,Blog,2024-04-12,16.98,Desktop,Internet Explorer,North America,Direct,bd7ab018-9ed3-447f-b94b-51f23491f8a0,Left Review
+171,105,Profile,2024-01-02,6.79,Laptop,Firefox,Oceania,Advertisement,982d7137-7f64-4005-8898-2ce72e25cc03,Signed Up for Newsletter
+172,267,Profile,2024-07-23,7.24,Tablet,Edge,Asia,Direct,e0b5fc2f-6c4d-4e61-a24c-87411ac36917,Viewed Product Details
+173,30,FAQ,2024-05-28,7.66,Smartphone,Edge,Europe,Direct,f0d5be82-7205-4915-870a-a253634287f7,Added to Cart
+174,197,Checkout,2024-06-09,21.4,Desktop,Safari,North America,Search Engine,711ce74b-86b7-41ac-817e-c174c54c4e42,Added to Cart
+175,292,Contact Us,2024-06-19,9.99,Laptop,Edge,Africa,Email,1e15a223-80c2-400e-b446-d3bedb10610e,Viewed Product Details
+176,64,Terms and Conditions,2024-03-26,15.35,Desktop,Safari,North America,Referral,96d36c57-0aa3-4277-98e6-08c790647d35,Viewed Product Details
+177,121,Product Page,2024-06-03,8.5,Desktop,Firefox,North America,Referral,5fa9ddaf-044d-4945-ac5d-87ba2da48f19,Left Review
+178,265,Checkout,2024-04-02,12.35,Smartphone,Edge,North America,Social Media,0cecb7fd-76a6-4814-9cf3-b9911d291d26,Viewed Product Details
+179,164,Contact Us,2024-04-28,5.2,Tablet,Firefox,South America,Social Media,e4e613c9-1a86-426d-9014-beeb7ee20761,Made a Purchase
+180,196,Cart,2024-02-08,20.11,Smartphone,Internet Explorer,Africa,Direct,9a63e76a-8970-4a68-951f-0744cea28a9d,Viewed Product Details
+181,44,Cart,2024-01-01,18.3,Desktop,Internet Explorer,Africa,Email,0b19d16d-7090-4bfe-8122-0847c28a414a,Added to Cart
+182,193,Cart,2024-03-25,17.39,Desktop,Safari,Asia,Email,ebcdcc86-7f23-4a5d-882b-0dd82bfdb370,Signed Up for Newsletter
+183,43,Home,2024-02-25,2.64,Tablet,Edge,Asia,Email,f6af08be-210d-49d3-a34a-a22b6e054231,Added to Cart
+184,223,Checkout,2024-07-24,12.4,Smartphone,Chrome,South America,Email,946ab88a-2c34-4539-8ce7-5348f07fbb16,Signed Up for Newsletter
+185,230,Blog,2024-03-12,23.75,Tablet,Chrome,Africa,Search Engine,d513dd3d-560d-437d-be7b-e947f14371c5,Added to Cart
+186,100,Blog,2024-08-02,23.28,Smartphone,Firefox,Asia,Search Engine,2c345f69-fd87-4294-9788-5631d2f6ed25,Added to Cart
+187,132,Product Page,2024-06-02,1.94,Smartphone,Chrome,Oceania,Advertisement,39c880ee-fb8b-43ca-80a6-fde069457242,Added to Cart
+188,282,Contact Us,2024-01-13,23.6,Laptop,Internet Explorer,South America,Email,7ca9d2ae-ede0-4739-9dd8-2b8689d46692,Viewed Product Details
+189,128,Cart,2024-03-10,13.05,Laptop,Edge,Africa,Direct,dbb5a7ba-49f5-4b70-870b-bae07e325f7d,Signed Up for Newsletter
+190,60,Blog,2024-01-15,1.36,Smartphone,Safari,Oceania,Advertisement,edcde636-cab4-4564-9fca-5621cb1f01d6,Viewed Product Details
+191,290,Contact Us,2024-02-18,14.25,Desktop,Edge,North America,Direct,7c7af9e4-290e-4f71-8809-e539686ef3ee,Requested Support
+192,200,Profile,2024-02-14,5.33,Desktop,Internet Explorer,North America,Direct,7ceb76e0-a563-423d-9995-df386deadd5d,Requested Support
+193,300,Privacy Policy,2024-01-06,21.51,Desktop,Internet Explorer,Asia,Social Media,01e5f499-1869-4a76-a569-ee1265671945,Made a Purchase
+194,92,Blog,2024-03-25,3.06,Tablet,Firefox,Oceania,Referral,53ca615d-e03f-41f0-876b-ec67d1b7f7cb,Left Review
+195,73,Product Page,2024-07-09,2.72,Desktop,Edge,Africa,Advertisement,2c70eb93-98d3-4554-9479-dd87cc9df3bf,Viewed Product Details
+196,172,Privacy Policy,2024-05-08,1.21,Tablet,Safari,Oceania,Referral,e048de71-1fb1-4461-b230-a2427037ac27,Signed Up for Newsletter
+197,128,Privacy Policy,2024-08-11,18.72,Laptop,Chrome,South America,Referral,d8762d19-f22d-419f-ac1a-1f2bc32fb256,Requested Support
+198,160,Checkout,2024-01-10,10.34,Smartphone,Firefox,Oceania,Referral,dbfa0830-4670-45cf-a714-fe3f0d7c5f2b,Made a Purchase
+199,73,Checkout,2024-01-07,15.17,Desktop,Edge,Oceania,Direct,1801e228-b5d1-4d09-bb1d-d9efa57800a6,Made a Purchase
+200,74,FAQ,2024-01-29,22.02,Smartphone,Internet Explorer,Africa,Referral,05cb8c92-460c-4373-b0b6-7715f38734b7,Viewed Product Details
+201,81,Profile,2024-03-22,16.22,Desktop,Firefox,North America,Social Media,1869556b-374f-4a55-9629-a9a8f05b1d8b,Added to Cart
+202,87,Blog,2024-03-24,27.6,Smartphone,Chrome,North America,Email,a3fb6942-cede-4ece-8ab2-d283c6de6ca5,Requested Support
+203,85,Home,2024-05-31,2.46,Tablet,Safari,Europe,Direct,6bd58ac7-444e-44ca-9a9e-efa0d637f934,Requested Support
+204,172,Checkout,2024-04-08,18.34,Smartphone,Internet Explorer,Europe,Advertisement,bf41811a-21a0-4a6a-9da7-cf9823df23ec,Added to Cart
+205,82,Home,2024-03-12,25.21,Desktop,Chrome,Asia,Search Engine,bab77f0b-5bc5-463e-85d8-613ed4145195,Made a Purchase
+206,64,Cart,2024-06-15,10.91,Smartphone,Firefox,Europe,Social Media,45a79762-5ed3-4947-b2e1-085c8360c0de,Requested Support
+207,226,Terms and Conditions,2024-04-09,10.42,Desktop,Firefox,Oceania,Social Media,f6da990e-779d-4e0d-8f8e-89db04af835f,Left Review
+208,183,Checkout,2024-06-07,28.75,Desktop,Internet Explorer,North America,Social Media,7948541f-e275-4bd7-8693-3edaae22a847,Viewed Product Details
+209,266,Product Page,2024-01-28,17.38,Tablet,Safari,Europe,Email,2777897f-be63-4c9b-b234-c10b3026693f,Added to Cart
+210,280,Privacy Policy,2024-01-01,4.26,Tablet,Internet Explorer,Oceania,Social Media,088c119a-8e06-4f0c-b5fd-58d12c101c8c,Added to Cart
+211,250,Contact Us,2024-07-30,21.2,Tablet,Internet Explorer,Europe,Advertisement,87e88d19-7292-46e6-b952-1732946faffe,Made a Purchase
+212,209,Terms and Conditions,2024-04-17,8.03,Tablet,Firefox,Africa,Email,f3ba3d39-806b-4b2e-a047-a5f174c4f1f2,Left Review
+213,26,FAQ,2024-03-22,2.21,Desktop,Chrome,Asia,Direct,90056652-fe27-4382-a525-a9b3c2102791,Requested Support
+214,240,FAQ,2024-02-29,26.87,Tablet,Firefox,Europe,Direct,677bb6d9-754a-4a99-a15e-1387ed29ba7f,Signed Up for Newsletter
+215,36,Home,2024-05-05,4.97,Tablet,Safari,Europe,Search Engine,8cb9248d-7dec-49a3-98fb-949551db3203,Left Review
+216,230,Terms and Conditions,2024-03-06,14.34,Tablet,Safari,Europe,Social Media,de9607d1-9464-4c47-9dfa-607e1b481b06,Added to Cart
+217,218,FAQ,2024-03-28,21.92,Laptop,Firefox,Oceania,Direct,6633307e-b5f5-4ce8-9b32-3145b5be31b2,Requested Support
+218,292,Terms and Conditions,2024-01-27,14.14,Laptop,Firefox,North America,Search Engine,0c4beb5c-22f3-470a-88aa-e5dbd91b3243,Viewed Product Details
+219,67,Product Page,2024-07-28,26.02,Desktop,Edge,Africa,Email,44106164-c48b-4129-8d00-8d0f832d3237,Requested Support
+220,11,Product Page,2024-06-12,10.67,Smartphone,Internet Explorer,Africa,Email,0161d76e-3b30-4252-b63d-de33caf17161,Requested Support
+221,62,Product Page,2024-03-09,9.28,Laptop,Internet Explorer,Europe,Social Media,1647c04d-b3ab-41e1-800a-bbff72eeb3c4,Left Review
+222,172,Cart,2024-04-08,27.96,Laptop,Internet Explorer,South America,Social Media,6d9539af-32b3-46bc-b5c5-6a5d2164ae52,Viewed Product Details
+223,212,Product Page,2024-02-20,27.06,Smartphone,Firefox,Africa,Referral,8a856525-8d94-4661-a26e-b5af13033de9,Made a Purchase
+224,12,Contact Us,2024-05-27,3.77,Desktop,Internet Explorer,South America,Email,c13137f5-c6c4-4c9d-be5e-6c9ff768c79c,Requested Support
+225,226,Cart,2024-07-26,12.89,Laptop,Chrome,Europe,Direct,2d58d13a-c1f9-41ad-8f7e-30e6f85ba6d7,Signed Up for Newsletter
+226,77,Profile,2024-07-22,14.9,Smartphone,Internet Explorer,Asia,Social Media,d3c6fcaa-4fcf-4851-9396-d4806ebf4e0d,Viewed Product Details
+227,131,Product Page,2024-04-22,4.43,Smartphone,Safari,Africa,Search Engine,b4c6fa35-4f2a-4725-9623-b93c068d5533,Signed Up for Newsletter
+228,199,Privacy Policy,2024-01-06,14.89,Smartphone,Safari,North America,Advertisement,c330d3bd-ec19-4fa7-ad78-b3d801f8914d,Added to Cart
+229,46,Home,2024-02-13,17.13,Smartphone,Edge,Africa,Email,ada5d374-30ea-4557-8e82-5cb562de0e9e,Added to Cart
+230,90,Home,2024-05-06,29.19,Smartphone,Edge,Oceania,Email,29758586-ece0-41de-8e89-c7174f4e3b3d,Viewed Product Details
+231,110,Home,2024-01-17,28.64,Smartphone,Internet Explorer,Asia,Search Engine,2a06997e-b2e5-4643-9d2a-12eb7fb6bac4,Signed Up for Newsletter
+232,285,Checkout,2024-03-03,16.01,Smartphone,Edge,Europe,Social Media,44b43e16-9f27-4953-9656-39c8386421e4,Added to Cart
+233,288,Contact Us,2024-06-16,27.67,Laptop,Chrome,Europe,Email,818f3444-e29e-4162-9201-6dfdac7234bf,Requested Support
+234,179,Product Page,2024-02-11,19.82,Laptop,Edge,Africa,Advertisement,8d654c3d-55b9-4e91-8d8b-1879136a0183,Requested Support
+235,162,Terms and Conditions,2024-06-16,2.24,Desktop,Safari,Europe,Social Media,ee41c886-5ef9-4e46-8d7a-9adcd924ba89,Made a Purchase
+236,154,FAQ,2024-06-26,12.46,Tablet,Chrome,Europe,Email,7dc12dd8-9ed8-400a-a342-ddcb00bb706e,Made a Purchase
+237,234,Cart,2024-05-28,17.96,Tablet,Safari,Asia,Referral,25b2b459-f227-4b6a-b842-6a972707efe3,Made a Purchase
+238,58,Checkout,2024-02-18,7.85,Tablet,Firefox,Oceania,Email,8595e32a-8695-4c1b-bcb8-9c8dfc8e144a,Left Review
+239,297,FAQ,2024-05-24,17.39,Desktop,Internet Explorer,North America,Search Engine,3dbddfeb-3fd8-4841-ac57-8ef97833c188,Signed Up for Newsletter
+240,197,FAQ,2024-03-13,23.98,Laptop,Chrome,Europe,Social Media,62f66d0b-0212-4bf3-81ea-9a2e6b050c64,Left Review
+241,42,Privacy Policy,2024-04-07,18.31,Smartphone,Firefox,Oceania,Advertisement,bc7865a3-fccb-4e77-b711-87dea87e26ec,Added to Cart
+242,140,Terms and Conditions,2024-04-08,27.8,Desktop,Firefox,Europe,Direct,4f359798-6a7f-4fd0-b182-29eb81a80f83,Left Review
+243,190,Terms and Conditions,2024-06-19,5.6,Desktop,Firefox,Asia,Advertisement,71a05dfe-300a-4e16-8085-9ad417640c4b,Signed Up for Newsletter
+244,234,Home,2024-07-22,13.14,Smartphone,Safari,South America,Direct,6fd1b1d7-b6aa-4342-8fa7-3f2fddda3cb6,Viewed Product Details
+245,33,FAQ,2024-04-11,24.83,Desktop,Chrome,North America,Social Media,3a75a2ce-12a2-4c77-b5c7-d94f403a86a9,Added to Cart
+246,262,FAQ,2024-01-09,27.35,Smartphone,Edge,North America,Direct,3c83def0-0171-46fd-aacb-1dbc9f5d2369,Made a Purchase
+247,290,Profile,2024-05-03,27.38,Desktop,Edge,South America,Email,6e507b01-66a2-4588-9211-e6c07fe77f3c,Viewed Product Details
+248,89,Product Page,2024-07-01,2.92,Desktop,Chrome,Asia,Search Engine,a57e170e-e508-46dd-b5e0-f009a947056c,Added to Cart
+249,207,Product Page,2024-06-29,11.03,Laptop,Firefox,Oceania,Direct,2f4802ef-a450-4cd8-aa8f-ebcc4a6f8fe6,Made a Purchase
+250,61,Home,2024-06-14,22.74,Desktop,Chrome,South America,Advertisement,f9e2094b-95b8-4b48-9645-033a952bf796,Added to Cart
